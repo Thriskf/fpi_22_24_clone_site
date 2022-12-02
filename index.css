@@ -1,6 +1,45 @@
 body{
-/* background-image:linear-gradient(rgb(9, 3, 44),blue); */
-padding: 2em;
+}
+
+.nav_link
+{
+    display:inline-block;
+    justify-content: center;
+}
+
+
+.top
+{
+    background:linear-gradient(rgb(7, 7, 44),rgb(84, 99, 166));
+    padding: 2em;
+    color:white;
+    width:100%;
+    justify-content: center;
+
+}
+
+.down
+{
+    background-color: white;
+    color:blue;
+    padding: 2em;
+    width: 100%;
+}
+.spend
+{
+    text-align: center;
+    background: linear-gradient(to left, blue);
+    color: white;
+    height: 2em;
+}
+.spend a
+{
+    text-decoration: none;
+
+}
+li
+{
+    display: inline;
 }
 
 .section-1
