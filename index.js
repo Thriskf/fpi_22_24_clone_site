@@ -37,3 +37,20 @@ function card_44(){
     document.getElementById("card-44-body-4").innerHTML="More buying power means up to 5x the profit."
   
 }
+
+function card_111(){
+    document.getElementById("card-111-body-11").innerHTML="Confirm transactions, analyze the market, or simply learn more about crypto."
+
+}
+function card_222(){
+    document.getElementById("card-222-body-22").innerHTML="We’ve powered exchanges, data analysts, enthusiasts, and more."
+
+}
+function card_333(){
+    document.getElementById("card-333-body-33").innerHTML="From hashrate, to block details, to mining information, and more."
+
+}
+function card_444(){
+    document.getElementById("card-444-body-44").innerHTML="Get the latest prices and charts along with key market signals."
+
+}
