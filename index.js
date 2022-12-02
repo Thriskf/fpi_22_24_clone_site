@@ -20,3 +20,20 @@ function card_5(){
       document.getElementById("card-5-body-5").innerHTML="View and manage your balance across the Wallet, the Exchange, and your hardware, all in your wallet dashboard."
     
 }
+
+function card_11(){
+    document.getElementById("card-11-body-1").innerHTML="The Exchange supports USD, EUR, and GBP."
+  
+}
+function card_22(){
+    document.getElementById("card-22-body-2").innerHTML="The world’s fastest crypto matching engine, built by and for traders."
+  
+}
+function card_33(){
+    document.getElementById("card-33-body-3").innerHTML="Chat with customer support directly in the Exchange, anytime."
+  
+}
+function card_44(){
+    document.getElementById("card-44-body-4").innerHTML="More buying power means up to 5x the profit."
+  
+}
